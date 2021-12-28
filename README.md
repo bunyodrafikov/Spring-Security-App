@@ -2,7 +2,7 @@
 
 # Spring-Blog
 This is my first project in Java and Spring Framework 
-##Instalation
+##Installation
 Firstly, create database in pgAdmin with the script in **db.sql**. Don't forget to update your data in the file
 
 Then, update data in **application.properties** (which in the project called example-application.properties)
