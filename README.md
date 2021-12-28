@@ -1,4 +1,4 @@
-[![license](https://img.shields.io/github/license/thmsgbrt/react-simple-pull-to-refresh.svg)](https://github.com/bunyodrafikov/Spring-Security-App/blob/add-license-1/LICENSE)
+[![license](https://img.shields.io/github/license/thmsgbrt/react-simple-pull-to-refresh.svg)](https://github.com/bunyodrafikov/Spring-Security-App/blob/master/LICENSE)
 
 # Spring-Security Module for my Blog
 This is the project which is made for training Spring-Security in registration/authorization
